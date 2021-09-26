@@ -1,2 +1,1 @@
-create new project in file
-New changes of my project now
+# Домашняя практика по работе с СКВ Git & GitHub
